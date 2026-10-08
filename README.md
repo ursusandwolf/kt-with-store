@@ -2,8 +2,8 @@
 
 ## Build and test
 
-Install JDK 25 and set `JAVA_HOME` to its installation directory.
-In IntelliJ IDEA, select JDK 25 for both Project SDK and Gradle JVM.
+Install JDK 21 and set `JAVA_HOME` to its installation directory.
+In IntelliJ IDEA, select JDK 21 for both Project SDK and Gradle JVM.
 
 Run `./gradlew build` (or `.\gradlew.bat build` on Windows) to compile the project,
 run tests, and check the code with detekt.
